@@ -1,4 +1,10 @@
-# plugin-testing-field
+# Nuxt + vuedraggable
+
+Utilizando neste repo:
+- nuxt
+- vuedraggable
+- @nuxtjs/tailwindcss
+- nuxt-vite
 
 ## Build Setup
 
